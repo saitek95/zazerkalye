@@ -2065,3 +2065,62 @@ input::-webkit-inner-spin-button {
     font-size: 24px;
     font-weight: 700;
 }
+
+.block-benefits h2 {
+    margin-bottom: 32px;
+}
+
+.block-benefits .benefits-item {
+    padding: 32px;
+    background: #F4F4F4;
+    border-radius: 12px;
+}
+
+.block-benefits {
+    margin-bottom: 32px;
+}
+
+.block-benefits .benefits-item .name {
+    font-size: 17px;
+    font-weight: 800;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.block-benefits .benefits-item .text {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.block-benefits .grid-columns-3 {
+    margin-bottom: 12px;
+}
+
+.block-benefits>p {
+    font-weight: 500;
+    color: #7C7C7C;
+}
+
+.partners-banner {
+    background: #F4F4F4;
+    padding: 76px 83px;
+    position: relative;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    border-radius: 11px;
+}
+
+.partners-banner p {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    width: 580px;
+}
+
+.partners-banner .img {
+    position: absolute;
+    top: -90px;
+    right: 140px;
+}

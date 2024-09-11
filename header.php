@@ -4,17 +4,17 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Медицинская одежда премиум качества People In White</title>
-		<link rel="stylesheet" href="/project/assets/css/swiper-bundle.min.css">
-		<link rel="stylesheet" href="/project/assets/css/sprite.css">
-		<link rel="stylesheet" href="/project/assets/css/fancybox.css">
-		<link rel="stylesheet" href="/project/assets/css/style.css">
-		<link rel="stylesheet" href="/project/assets/css/intlTelInput.min.css">
+		<link rel="stylesheet" href="../assets/css/swiper-bundle.min.css">
+		<link rel="stylesheet" href="../assets/css/sprite.css">
+		<link rel="stylesheet" href="../assets/css/fancybox.css">
+		<link rel="stylesheet" href="../assets/css/style.css">
+		<link rel="stylesheet" href="../assets/css/intlTelInput.min.css">
 	</head>
 	<body>
 		<header>
 			<div class="grid-columns-2">
-				<a href="/project/index.php" class="logo">
-					<img src="/project/assets/svg/logo.svg" alt="">
+				<a href="../index.php" class="logo">
+					<img src="../assets/svg/logo.svg" alt="">
 					<span>Интернет-магазин зеркал</span>
 				</a>
 				<div class="head-top-right">

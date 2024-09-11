@@ -40,13 +40,13 @@
 </div>
 <div class="grid-columns-3 gap-32">
 	<a href="">
-		<img src="./assets/img/Group 239.jpg" alt="">
+		<img src="../assets/img/Group 239.jpg" alt="">
 	</a>
 	<a href="">
-		<img src="./assets/img/Group 161.jpg" alt="">
+		<img src="../assets/img/Group 161.jpg" alt="">
 	</a>
 	<a href="">
-		<img src="./assets/img/Group 238.jpg" alt="">
+		<img src="../assets/img/Group 238.jpg" alt="">
 	</a>
 </div>
 <div class="home-category-blocks">
@@ -204,7 +204,7 @@
 	Зеркала - это почти волшебные аксессуары, которые неуловимо преобразуют помещение. Делают его светлее, просторнее и намного интереснее!</p>	
 	<div class="grid-columns-2 gap-32">
 		<div class="item">
-			<img src="./assets/svg/Group 176.svg" alt="">
+			<img src="../assets/svg/Group 176.svg" alt="">
 			Изготовление 1 - 7 дней
 		</div>
 		<div class="item">
@@ -244,7 +244,7 @@
 	</div>
 </div>
 <div class="block-info-text">
-	<img src="./assets/img/Ресурс 1 2.jpg" alt="">
+	<img src="../assets/img/Ресурс 1 2.jpg" alt="">
 	<div class="item">
 		<h3>Добро пожаловать в интернет-магазин интерьерных зеркал "Мир Зазеркалья"</h3>
 		<p>В своём стремлении улучшить пользовательский опыт мы упускаем, что представители современных социальных резервов представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть своевременно верифицированы. Картельные сговоры не допускают ситуации, при которой явные признаки победы институционализации формируют глобальную экономическую сеть.</p>

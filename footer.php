@@ -34,11 +34,11 @@
 				</div>
 			</footer>
 		</div>
-		<script src="/project/assets/js/swiper-bundle.min.js"></script>
-		<script src="/project/assets/js/jquery-3.7.1.min.js"></script>
-		<script src="/project/assets/js/jquery-ui-git.js"></script>
-		<script src="/project/assets/js/fancybox.umd.js"></script>
-		<script src="/project/assets/js/jquery.inputmask.bundle.min.js"></script>
-		<script src="/project/assets/js/main.js"></script>
+		<script src="../assets/js/swiper-bundle.min.js"></script>
+		<script src="../assets/js/jquery-3.7.1.min.js"></script>
+		<script src="../assets/js/jquery-ui-git.js"></script>
+		<script src="../assets/js/fancybox.umd.js"></script>
+		<script src="../assets/js/jquery.inputmask.bundle.min.js"></script>
+		<script src="../assets/js/main.js"></script>
 	</body>
 </html>
