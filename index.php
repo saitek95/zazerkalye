@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?> 1
+<?php include 'header.php'; ?>
 <div class="swiper slider-home">
 	<div class="swiper-wrapper">
 		<div class="swiper-slide" style="background-image: url('assets/img/Group 157.jpg');">
