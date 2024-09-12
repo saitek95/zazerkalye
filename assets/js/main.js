@@ -37,6 +37,42 @@ $(document).on('click', '.count-product > div', function() {
   input.val(value).change(); 
 });
 
+const menuBtn = $(".menu-head-catalog"),
+      menu = $(".big-menu");
+
+menuBtn.on("click", function () {
+    if ($(this).hasClass("is-active")) {
+        $(this).removeClass("is-active");
+        menu.fadeOut(100);
+    } else {
+        $(this).addClass("is-active");
+        menu.fadeIn(100);
+    }
+});
+
+$(document).click(function (e) {
+    if (!menuBtn.is(e.target) && !menu.is(e.target) && menu.has(e.target).length === 0) {
+        menu.fadeOut(100);
+        menuBtn.removeClass("is-active");
+    };
+});
+
+$(document).on('click', '[href="#location"]', function() {
+  $('.popup').fadeIn(100);
+  $('.location-city').fadeIn(100);
+})
+
+$(document).on('click', '[href="#custom-size"]', function() {
+  $('.popup').fadeIn(100);
+  $('.custom-size').fadeIn(100);
+})
+
+$(document).on('click', '.close', function() {
+  $('.popup').fadeOut(100);
+  $('.popup .location-city').fadeOut(100);
+  $('.popup .custom-size').fadeOut(100);
+})
+
 $('img.img-svg').each(function(){
   const $img = $(this);
   const imgClass = $img.attr('class');

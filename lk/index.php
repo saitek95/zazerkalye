@@ -16,11 +16,11 @@
 			<li><a href="../lk/my-orders.php">Мои заказы</a></li>
 			<li><a>Вывод средств</a></li>
 			<li><a>Выгрузить CSV каталог</a></li>
-			<a href="../lk/contacts.php">Контакты и реквизиты</a>
+			<li><a href="../lk/contacts.php">Контакты и реквизиты</a></li>
 			<li><a href="../lk/partners.php">Партнерская программа</a></li>
 			<li><a>Рекламации</a></li>
 			<li><a>Договор</a></li>
-			<li><a>Обратная связь</a></li>
+			<li><a href="../lk/callback.php">Обратная связь</a>Обратная связь</a></li>
 			<li><a>Выйти</a></li>
 		</ul>
 	</div>
