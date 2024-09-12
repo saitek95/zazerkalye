@@ -1965,6 +1965,10 @@ input::-webkit-inner-spin-button {
     margin-top: 32px;
 }
 
+.page-partners h2 {
+    margin-bottom: 16px;
+}
+
 .page-partners .item {
     padding: 32px;
     border-radius: 32px;
@@ -2123,4 +2127,65 @@ input::-webkit-inner-spin-button {
     position: absolute;
     top: -90px;
     right: 140px;
+}
+
+.blocks-why-us {
+    margin-bottom: 64px;
+}
+
+.blocks-why-us h2 {
+    margin-bottom: 32px;
+}
+
+.why-us-item {
+    padding: 24px;
+    border-radius: 12px;
+    background: #F4F4F4;
+}
+
+.why-us-item p,
+.why-us-item li {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.why-us-item .name {
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.why-us-item li {
+    list-style: disc;
+    margin-left: 15px;
+}
+
+.page-partners .text-item {
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 32px;
+}
+
+.page-partners .block-icons-item {
+    padding: 30px 15px;
+    box-shadow: 0px 2px 16px 0px #0000001F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.page-partners .block-icons-item p {
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 16px;
+    text-align: center;
+}
+
+p.block-icons-item-text {
+    margin-top: 16px;
+    margin-bottom: 32px;
+    font-weight: 500;
+    color: #7C7C7C;
 }

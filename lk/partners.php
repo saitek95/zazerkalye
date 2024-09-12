@@ -117,5 +117,94 @@
 			<img src="../assets/img/Object 1.png" alt="">
 		</div>
 	</div>
+	<div class="blocks-why-us">
+		<h2>Почему мы?</h2>
+		<div class="grid-columns-4 gap-32">
+			<div class="why-us-item">
+				<p>Наша компания специализируется именно на зеркалах. Продуманные технологии производства и понимание потребностей заказчиков позволяют нам изготавливать продукцию высокого качества с хорошим уровнем рентабельности.</p>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Широкий ассортимент</p>
+				<ul>
+					<li>16 размерных рядов</li>
+					<li>возможен выпуск размеров под заказчика</li>
+					<li>сенсорная кнопка или бесконтактное управление</li>
+					<li>любой оттенок подсветки</li>
+					<li>универсальное крепление для вертикальной и горизонтальной установки</li>
+				</ul>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Маркетинговая поддержка</p>
+				<ul>
+					<li>предоставляем фото и видеоматериалы</li>
+					<li>бесплатно консультируем по запуску продукции</li>
+					<li>возможны совместные маркетинговые активности</li>
+				</ul>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Безопасность</p>
+				<ul>
+					<li>электрическая защита IP65  - можно использовать в помещениях с высокой влажностью</li>
+					<li>только качественный металл вместо пластика - за надежность монтажа можно не беспокоиться</li>
+				</ul>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Гарантии</p>
+				<ul>
+					<li>тщательная проверка товара перед отгрузкой</li>
+					<li>надежная упаковка</li>
+					<li>гарантия 2 года</li>
+					<li>постгарантийное обслуживание</li>
+				</ul>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Безупречная репутация</p>
+				<ul>
+					<li>рейтинг товара на OZON 4.98</li>
+					<li>100% товаров доставлены целыми за счет качественной упаковки</li>
+				</ul>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Высокое качество</p>
+				<ul>
+					<li>лучшее стекло на отечественном рынке</li>
+					<li>алюминиевый каркас</li>
+					<li>работаем только с электрикой от Feron</li>
+				</ul>
+			</div>
+			<div class="why-us-item">
+				<p class="name">Удобство</p>
+				<ul>
+					<li>отправка в любую точку РФ</li>
+					<li>оперативная доставка ведущими транспортными компаниями: CDEK, ПЭК, Boxberry</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<h2>Всего 5 шагов - и вы начнете получать дополнительный доход от сотрудничества по системе дропшиппинг!</h2>
+	<p class="text-item">При желании вы можете работать с нами не по системе дропшиппинг, а совершать оптовые закупки по ценам от производителя и устанавливать свою цену на товар</p>
+	<div class="grid-columns-5 gap-32">
+		<div class="block-icons-item">
+			<img src="../assets/svg/block-icons-item-1.svg" alt="" class="img-svg">
+			<p>Согласование условий</p>
+		</div>
+		<div class="block-icons-item">
+			<img src="../assets/svg/block-icons-item-2.svg" alt="" class="img-svg">
+			<p>Заключение договора</p>
+		</div>
+		<div class="block-icons-item">
+			<img src="../assets/svg/block-icons-item-3.svg" alt="" class="img-svg">
+			<p>Продажа товара</p>
+		</div>
+		<div class="block-icons-item">
+			<img src="../assets/svg/block-icons-item-4.svg" alt="" class="img-svg">
+			<p>Получение рекламных материалов</p>
+		</div>
+		<div class="block-icons-item">
+			<img src="../assets/svg/block-icons-item-5.svg" alt="" class="img-svg">
+			<p>Получение комиссии *</p>
+		</div>
+	</div>
+	<p class="block-icons-item-text">*от 20% и более от стоимости товара</p>
 </div>
 <?php include '../footer.php'; ?>
