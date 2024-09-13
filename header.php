@@ -17,6 +17,9 @@
 					<img src="../assets/svg/logo.svg" alt="">
 					<span>Интернет-магазин зеркал</span>
 				</a>
+				<div class="menu-burger">
+					<i class="icon burger"></i>
+				</div>
 				<div class="head-top-right">
 					<div class="item">
 						<a href="#location">
